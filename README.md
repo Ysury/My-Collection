@@ -1,2 +1,3 @@
 # My-Collection
-ceci est un application en voie de developpement et les fonctionnalites existants ne sont pas encore la finaliter
+ceci est une application en voie de developpement et les fonctionnalites existants ne sont pas encore la finalite
+
